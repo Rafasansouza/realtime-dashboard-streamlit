@@ -2,9 +2,9 @@
 
 Este projeto é um **dashboard web em tempo real** desenvolvido com **Streamlit**. Ele se conecta a um banco de dados relacional (PostgreSQL por padrão) e exibe informações em tempo real divididas em três áreas principais:
 
-- 🌙 **Plantão**
-- 🚰 **Manutenção**
-- 📦 **Almoxarifado**
+- **Plantão**
+- **Manutenção**
+- **Almoxarifado**
 
 A página é atualizada automaticamente a cada 10 segundos.
 
@@ -28,9 +28,9 @@ realtime-dashboard/
 ├── db/
 │   └── connection.py
 ├── pages/
-│   ├── 1_🌙_Plantao.py
-│   ├── 2_🚰_Manutencao.py
-│   └── 3_📦_Almoxarifado.py
+│   ├── 1_Plantao.py
+│   ├── 2_Manutencao.py
+│   └── 3_Almoxarifado.py
 ├── pyproject.toml
 ```
 
