@@ -77,7 +77,7 @@ def get_connection():
     return engine.connect()
 ```
 
-> ⚠️ **Importante:** Certifique-se de que o banco está ativo, acessível e que os dados necessários já existem nas tabelas.
+> ⚠️ **Importante:** Certifique-se de que o banco está ativo, acessível e que os dados necessários já existem nas tabelas. Além disso, lembre-se de modificar a consulta ao banco deste projeto para a consulta ao seu banco de dados.
 
 ---
 
