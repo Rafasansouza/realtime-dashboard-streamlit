@@ -50,7 +50,7 @@ realtime-dashboard/
 
 ```bash
 git clone https://github.com/Rafasansouza/realtime-dashboard-streamlit
-cd realtime-dashboard
+cd realtime-dashboard-streamlit
 ```
 
 ### 2. Instale as dependências com Poetry
